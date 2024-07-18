@@ -22,5 +22,6 @@ submitBtn.addEventListener("click",() => {
             display.appendChild(label);
         }
         display.appendChild(document.createElement("br"));
+        display.appendChild(document.createElement("br"));
     }
 },{once: true});
